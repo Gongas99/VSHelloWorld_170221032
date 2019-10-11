@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gongas\\source\\repos\\VSHelloWorld_170221032\\VSHelloWorld_170221032\\VSHelloWorld_170221032\\VSHelloWorld_170221032.csproj",
+      "projectUniqueName": "C:\\Users\\Gongas\\Documents\\GitHub\\VSHelloWorld_170221032\\VSHelloWorld_170221032\\VSHelloWorld_170221032\\VSHelloWorld_170221032.csproj",
       "projectName": "VSHelloWorld_170221032",
-      "projectPath": "C:\\Users\\Gongas\\source\\repos\\VSHelloWorld_170221032\\VSHelloWorld_170221032\\VSHelloWorld_170221032\\VSHelloWorld_170221032.csproj",
+      "projectPath": "C:\\Users\\Gongas\\Documents\\GitHub\\VSHelloWorld_170221032\\VSHelloWorld_170221032\\VSHelloWorld_170221032\\VSHelloWorld_170221032.csproj",
       "packagesPath": "C:\\Users\\Gongas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gongas\\source\\repos\\VSHelloWorld_170221032\\VSHelloWorld_170221032\\VSHelloWorld_170221032\\obj\\",
+      "outputPath": "C:\\Users\\Gongas\\Documents\\GitHub\\VSHelloWorld_170221032\\VSHelloWorld_170221032\\VSHelloWorld_170221032\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
