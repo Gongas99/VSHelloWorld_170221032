@@ -6,7 +6,7 @@ namespace VSHelloWorld_170221032
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World and Github!");
             Console.WriteLine("https://github.com/Gongas99/VSHelloWorld_170221032");
         }
     }
